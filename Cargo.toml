@@ -2,6 +2,7 @@
 name = "selfies_rust"
 version = "0.1.0"
 edition = "2021"
+authors = ["Julius Cathalina <julius.cathalina@gmail.com>"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
